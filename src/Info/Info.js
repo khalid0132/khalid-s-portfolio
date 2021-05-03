@@ -1,10 +1,10 @@
 export const ProfileDetails = {
     name: "Khalid Saifullah ",
     shortName: "Khalid",
-    phone: "(0)737139307",
+    phone: "+46(0)737139307",
     email: "mksaifullah0132@gmail.com",
     description: "I'm a JavaScript and React Developer.",
-    about: "I'm Front End Developer. But I know backend also.I like to learn new technology. Currently working as an internship at Zisson AB.",
+    about: "I'm frontend Developer. But I know backend as well. I like to learn new technologies. Currently working as a frontend developer (internship) at Zisson AB.",
     address: "Visättravägen 21, Huddinge-14150",
     state: "Stockholm, Sweden"
 }
