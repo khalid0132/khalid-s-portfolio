@@ -4,9 +4,10 @@ import Navbar from '../Home/Navbar/Navbar';
 import Footer from '../Footer/Footer';
 import { ProfileDetails } from '../../Info/Info';
 
-const USER_ID = "user_bnnxVvW2kSJ6R7JiYXAQj";
-const SERVICE_ID = "service_mqaafbl";
-const TAMP_ID = "template_08t9s6n";
+
+const USER_ID = "user_y38ZRaeLfl5PSlpdhfsYt";
+const SERVICE_ID = "service_ok4ou7m";
+const TAMP_ID = "template_skgrnla";
 
 const Contact = () => {
     const { email } = ProfileDetails;
@@ -15,7 +16,7 @@ const Contact = () => {
         e.preventDefault();
         emailjs.sendForm(SERVICE_ID, TAMP_ID, e.target, USER_ID)
             .then((result) => {
-                alert("Email Has Been Successfully Sent!");
+                alert("Your e-mail has been sent perfectly!");
                 e.target.reset();
             }, (error) => {
                 alert(error.text);
