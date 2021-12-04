@@ -15,20 +15,20 @@ const Header = () => {
                             <div className="header-content">
                                 <h1>
                                 <span className="text-main">Khalid Saifullah</span>
-                                   <br /> is here ...
+                                   <br /> is here, ready to join your team ...
                                    
                                     
                                 </h1>
                                 <h4>
                                     <Typewriter 
                                         options={{
-                                            strings: ['Frontend Developer', 'React and JavaScript Expert', 'ICT Expert'],
+                                            strings: ['IT Support Engineer', 'React and JavaScript Developer', 'ICT Engineer'],
                                             autoStart: true,
                                             loop: true,
                                         }}
                                     />
                                 </h4>
-                                <p>I'm a React and JavaScript Developer.</p>
+                                <p>I'm a Junior Technical Support Engineer and React and JavaScript Developer.</p>
                                 <div>
                                     <Link class="btn btn-primary me-3" to="/contact"> <Arrow90degRight/> Hire Me</Link>
                                     <a class="btn common-background text-white" target="_blank" href="https://drive.google.com/file/d/1r2E05YkZyJ0ET1-f6vFlFAln8qdSsRRp/view?usp=sharing"><FileEarmarkPersonFill /> Resume</a>

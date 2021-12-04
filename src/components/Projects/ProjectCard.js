@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 
@@ -11,13 +10,13 @@ const ProjectCard = ({ project }) => {
                 <div className="col-6">
                     <Carousel className="w-100">
                         <div>
-                            <img src={img1} />
+                            <img src={img1} alt="" />
                         </div>
                         <div>
-                            <img src={img2} />
+                            <img src={img2} alt="" />
                         </div>
                         <div>
-                            <img src={img3} />
+                            <img src={img3} alt="" />
                         </div>
                     </Carousel>
                 </div>

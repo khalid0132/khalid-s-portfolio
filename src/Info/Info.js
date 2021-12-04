@@ -1,11 +1,11 @@
 export const ProfileDetails = {
     name: "Khalid Saifullah ",
     shortName: "Khalid",
-    phone: "+46(0)737139307",
+    phone: "+46 (0)73 71 39 307",
     email: "mksaifullah0132@gmail.com",
     description: "I'm a JavaScript and React Developer.",
-    about: "I'm frontend Developer. But I know backend as well. I like to learn new technologies. Currently working as a frontend developer (internship) at Zisson AB.",
-    address: "Visättravägen 21, Huddinge-14150",
+    about: "I'm IT Technical SUpport Engineer as well as frontend Developer. But I know backend as well. I like to learn new technologies. Currently working as a frontend developer (internship) at Zisson AB.",
+    address: "Diagnosvägen 5B, 14153-Huddinge",
     state: "Stockholm, Sweden"
 }
 export const ProjectDetails = [
@@ -36,7 +36,7 @@ export const ProjectDetails = [
         live: "https://stockholm-foodbank.web.app/",
         // client: "https://github.com/",
         // server: "https://github.com/",
-        technology: ['React JS', 'Bootstrap', 'Metarial UI', 'Node JS', 'Express JS', 'MongoDB', 'Firebase'],
+        technology: ['React JS', 'Bootstrap', 'Material UI', 'Node JS', 'Express JS', 'MongoDB', 'Firebase'],
         img1: 'https://i.postimg.cc/B6WxwpTH/Livs1.png',
         img2: 'https://i.postimg.cc/8c4McVqm/Livs2.png',
         img3: 'https://i.postimg.cc/MpvV6Nt1/Livs3.png'
@@ -73,6 +73,6 @@ export const AboutSkills = [
     },
     {
         title: "Others",
-        Skills: ['Project Management','Global IT Management','Requirements Engineering', 'Decision and Risk Analysis', 'C', 'Java Swing', 'Firebase', 'SASS']
+        Skills: ['Routing', 'Switching', 'Network & Server Maintenance','Active Directory', 'Project Management','Global IT Management','Requirements Engineering', 'Decision and Risk Analysis', 'C', 'Java Swing', 'Firebase', 'SASS']
     }
 ]

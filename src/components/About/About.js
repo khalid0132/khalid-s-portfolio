@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.scss'
 import { Facebook, Github, Linkedin } from 'react-bootstrap-icons';
-import profile from '../../img/khalid1.jpg';
+import profile from '../../img/khalid2.jpg';
 import Navbar from '../Home/Navbar/Navbar';
 import Footer from '../Footer/Footer'
 import { AboutEducation, AboutSkills } from '../../Info/Info';
@@ -22,7 +22,7 @@ const About = () => {
                     </div>
                     <div className="profile-text-content text-center py-4">
                         <h4>Hello, I'm <br /> <span className="text-main">Khalid Saifullah</span></h4>
-                        <p className="w-50 mx-auto">I'm Frontend Web Developer and very depth knowledge of backend, currently working as an internship at Zisson AB. Love to learn new technologies
+                        <p className="w-50 mx-auto">I'm Frontend Web Developer and very depth knowledge of backend as well as IT support. Love to learn new technologies
                         </p>
                     </div>
                     <div className="social-media text-center">
