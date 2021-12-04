@@ -22,7 +22,7 @@ const About = () => {
                     </div>
                     <div className="profile-text-content text-center py-4">
                         <h4>Hello, I'm <br /> <span className="text-main">Khalid Saifullah</span></h4>
-                        <p className="w-50 mx-auto">I'm Frontend Web Developer and very depth knowledge of backend as well as IT support. Love to learn new technologies
+                        <p className="w-50 mx-auto">I'm Frontend Web Developer and very depth knowledge of backend as well as IT support. Love to take challenges and to learn new technologies.
                         </p>
                     </div>
                     <div className="social-media text-center">

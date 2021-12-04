@@ -4,13 +4,13 @@ export const ProfileDetails = {
     phone: "+46 (0)73 71 39 307",
     email: "mksaifullah0132@gmail.com",
     description: "I'm a JavaScript and React Developer.",
-    about: "I'm IT Technical SUpport Engineer as well as frontend Developer. But I know backend as well. I like to learn new technologies. Currently working as a frontend developer (internship) at Zisson AB.",
-    address: "Diagnosvägen 5B, 14153-Huddinge",
+    about: "I'm an IT Technical Support Engineer as well as frontend Developer. I have depth knowledge in backend as well. I like to learn new technologies.",
+    address: "Diagnosvägen 5B, Lgh 1601, 14153-Huddinge",
     state: "Stockholm, Sweden"
 }
 export const ProjectDetails = [
     {
-        name: "Traffikverket",
+        name: "Traffikverket (Traffic School)",
         description: "This is a driving school website where client can book any service from this website. Clients may write their review and see other's reviews as well. Admin can add and delete the course information after signing in.",
         features: {
             a: "Login Authentication (Private Route)",
@@ -20,13 +20,13 @@ export const ProjectDetails = [
         live: "https://trafikverket-a3483.web.app/",
         // client: "https://github.com/",
         // server: "https://github.com/",
-        technology: ['React JS', 'Bootstrap', 'Metarial UI', 'Node JS', 'Express JS', 'MongoDB', 'Firebase'],
+        technology: ['React JS', 'Bootstrap', 'Material UI', 'Node JS', 'Express JS', 'MongoDB', 'Firebase'],
         img1: 'https://i.postimg.cc/Bt9NTNXh/1.png',
         img2: 'https://i.postimg.cc/ZRqf4V9g/4.png',
         img3: 'https://i.postimg.cc/QNF3qq60/5.png'
     },
     {
-        name: "Visättra Livs",
+        name: "Visättra Livs (Grocery Shop)",
         description: "This is a simple e-commerce web site where customers may easily buy any product by using this online application.",
         features: {
             a: "Login Authentication (Private Route)",
@@ -56,16 +56,16 @@ export const AboutEducation = [
         year: "2006"
     },
     {
-        title: "Yrkesutbildning",
+        title: "Vocational training (Yrkesutbildning)",
         institute: "Programming Hero, Jensen Education and EC utbildning",
-        degree: "Fronend Development",
-        year: "2020"
+        degree: "Complete Web Development Program",
+        year: "2021"
     }
 ]
 export const AboutSkills = [
     {
         title: "Front End",
-        Skills: ['JavaScript', 'React JS', 'Bootstrap', 'Metarial UI']
+        Skills: ['JavaScript', 'React JS', 'Bootstrap', 'Material UI']
     },
     {
         title: "Back End",
@@ -73,6 +73,6 @@ export const AboutSkills = [
     },
     {
         title: "Others",
-        Skills: ['Routing', 'Switching', 'Network & Server Maintenance','Active Directory', 'Project Management','Global IT Management','Requirements Engineering', 'Decision and Risk Analysis', 'C', 'Java Swing', 'Firebase', 'SASS']
+        Skills: ['Routing', 'Switching', 'Network & Server Maintenance','Active Directory', 'Project Management','Global IT Management','Requirements Engineering', 'Decision and Risk Analysis', 'C', 'Java Swing', 'Firebase', 'SASS', 'Firebase', 'Heroku', 'Netlify']
     }
 ]

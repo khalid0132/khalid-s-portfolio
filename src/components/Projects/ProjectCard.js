@@ -36,9 +36,9 @@ const ProjectCard = ({ project }) => {
                         </ul>
                     </div>
                     <div>
-                        <a className="btn btn-outline-secondary ms-3" target="_blank" href={live}>Live</a>
-                        <a className="btn btn-outline-secondary ms-3" target="_blank" href={client}>Client</a>
-                        <a className="btn btn-outline-secondary ms-3" target="_blank" href={server}>Server</a>
+                        <a className="btn btn-outline-secondary ms-3" target="_blank" href={live} rel="noreferrer">Live</a>
+                        <a className="btn btn-outline-secondary ms-3" target="_blank" href={client} rel="noreferrer">Client</a>
+                        <a className="btn btn-outline-secondary ms-3" target="_blank" href={server} rel="noreferrer">Server</a>
                     </div>
                 </div>
             </div>
